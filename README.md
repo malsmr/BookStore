@@ -2,7 +2,7 @@
 A Simple Book Store application
 
 Installation and Build & Execution of Application
-————————————————————————————————————————————————————————————
+—————————————————————————————————————————————----
 Download the BookStore.jar into your local computer.
 Extract the jar into a Web application project in an IDE like Eclipse or into a folder in the Computer
 Run the program either in the IDE or Command line with the 4 required command line arguments.
