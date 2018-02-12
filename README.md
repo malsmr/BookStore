@@ -52,13 +52,13 @@ Algorithm used:
 
 Improvements and Scalability
 ————————————————————————————————————————————————————————————
-The parts comments out in the code:
+The parts commented out in the code:
 1. It also includes the Books brought and the price each one of them are brought at in a HashMap “books” , which can be used to do further analysis 
 Or data representation as the application scales or requires. 
 2. The Bookstore budget , prices and books brought have been added to a JSONArray and can then be used to provide a rest service for the application’s functionality.
 Please Uncomment the code and add the required JAR files to the project LIB location to execute them.  Required JAR files are in a GIT folder.
 
-Scalability and Things I couldn’t include due to time constraints: 
+Scalability: 
 1. Would like to add an interface to the application if intended to Use as a Product or Web Application.
 2. Would like to provide as service using RestAPI if intended for backend use.
 3. Would like to provide multi-threading and concurrent access to the same budget from different users if that is a valid use can to scale to a warehouse or multiuser model.
